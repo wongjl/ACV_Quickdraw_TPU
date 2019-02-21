@@ -1,1 +1,1 @@
-ACV Quickdraw TPU infomation
+ACV Quickdraw TPU
